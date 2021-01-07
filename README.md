@@ -27,14 +27,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/z7TLIr0.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/z7TLIr0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had a lot of trouble with finding out how to use the extra fearures. I only had one day to complete the app and wish I had more time to experiment with all the features XCode and Swift have to offer. For instance, I wanted to add a dark more feature but could not figure out how to access elements from one view controller to another. I searched several places and saw many different approaches but not all of them worked. I truly am passionate about learning more and I hope you accept me into the course because I would love to learn more. I did go to office hours with Guillermo and he hellped me a lot with some things, but we didn't have time to address all of the questions I had.
+I had a lot of trouble with finding out how to use the extra fearures. I only had one day to complete the app and wish I had more time to experiment with all the features XCode and Swift have to offer. For instance, I wanted to add a dark more feature but could not figure out how to access elements from one view controller to another. I searched several places and saw many different approaches but not all of them worked. I truly am passionate about learning more and I hope you accept me into the course because I would love to learn more. I did go to office hours with Guillermo and he hellped me a lot with some things, but we didn't have time to address all of the questions I had. I did learn and watch videos on Auto Layouts, but did not have the time to apply my knowledge on this app - I used my knowledge on the PreWork for the Mobile Product Manager Application because I have not yet decided which one to take. I am very interested in learning more about app development.
 
 ## License
 
