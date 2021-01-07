@@ -1,17 +1,17 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tip-Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+Tip-Calculator is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Atanas Tenev
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Contains options to include other people and split the total bill, add on a Settings Navigator, and a elementary Dark Mode feature (unfinished)
 
 ## Video Walkthrough
 
@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of trouble with finding out how to use the extra fearures. I only had one day to complete the app and wish I had more time to experiment with all the features XCode and Swift have to offer. For instance, I wanted to add a dark more feature but could not figure out how to access elements from one view controller to another. I searched several places and saw many different approaches but not all of them worked. I truly am passionate about learning more and I hope you accept me into the course because I would love to learn more. I did go to office hours with Guillermo and he hellped me a lot with some things, but we didn't have time to address all of the questions I had.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2000] [Atanas Tenev]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
